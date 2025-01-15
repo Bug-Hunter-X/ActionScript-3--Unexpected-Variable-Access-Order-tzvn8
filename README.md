@@ -1,0 +1,1 @@
+This example demonstrates a subtle compiler error in ActionScript 3 related to variable access order. The `trace` statement attempts to access `someVariable` before its declaration and assignment, leading to a compiler error.  The solution demonstrates how to resolve this by ensuring the variable is assigned a value before use.
